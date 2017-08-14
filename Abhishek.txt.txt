@@ -7,3 +7,7 @@ Resolved new issue
 Patch 2 installed
 
 Patch 3 Installed
+
+Change 1
+
+Change 2
