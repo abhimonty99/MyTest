@@ -5,3 +5,5 @@ New Master Comment Added
 Resolved new issue
 
 Patch 2 installed
+
+Patch 3 Installed
